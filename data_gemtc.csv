@@ -1,0 +1,26 @@
+﻿Article_ID,diff,std.err,treatment,,SMD,var
+1,1.21444592,0.7695323,flower_strips,,,
+1,NA,NA,spontaneous_plants,,,
+2,0.33173681,0.4502791,flower_strips,,,
+2,NA,NA,crops,,,
+3,0.42827578,0.4527456,bare_fields,bare_fields vs grass_strips,-1.28392381,0.4565153
+3,1.68502588,0.4978108,grass_strips,,,
+3,NA,0.349562549,crops,,,
+4,1.20362547,0.4423132,flower_strips,,,
+4,NA,NA,crops,,,
+5,-1.27808911,0.7759475,flower_strips,,,
+5,NA,NA,bare_fields,,,
+6,1.52151725,0.9271378,flower_strips,,,
+6,NA,NA,bare_fields,,,
+7,0.51806798,0.3468117,flower_strips,flower_strips vs grass_strips,0.56500097,0.3475295
+7,-0.04693299,0.3430286,grass_strips,,,
+7,NA,0.242043614,spontaneous_plants,,,
+8,2.25945786,1.0450339,flower_strips,,,
+8,NA,NA,spontaneous_plants,,,
+9,0.7699706,0.6554714,grass_strips,,,
+9,NA,NA,crops,,,
+10,1.50967334,0.4284339,flower_strips,,,
+10,NA,NA,crops,,,
+11,-0.63785708,0.5435085,flower_strips,flower_strips vs grass_strips,0.06751265,0.534624
+11,-0.70536973,0.5454912,grass_strips,,,
+11,NA,0.391879648,spontaneous_plants,,,

@@ -1,0 +1,12 @@
+﻿Article_ID,LandType.c,n.c,mean.c,se.c,sd.c,LandType.t,n.t,mean.t,se.t,sd.t,LandType3,n3,mean3,sd3
+1,spontaneous_plants,4,46.09,9.78,19.56,flower_strips,4,87.99,22.35,44.7,,,,
+2,crops,10,9.57,4.63,14.64134557,flower_strips,10,15.87,7.12,22.51541694,,,,
+3,crops,9,3.68,1.32,3.96,grass_strips,11,22.63,5.26,17.4454464,bare_fields,11,8.42,6.102589614
+4,crops,15,176.99,24.78,95.97252732,flower_strips,10,368.14,70.8,223.8892583,,,,
+5,bare_fields,4,27.5,8.8,17.6,flower_strips,4,11.3,1.7,3.4,,,,
+6,bare_fields,3,20.25,1.27,2.199704526,flower_strips,3,22.78,0.48,0.831384388,,,,
+7,spontaneous_plants,17,2.67,0.97,3.999412457,flower_strips,17,5.54,1.95,8.04005597,grass_strips,17,2.41,3.380946613
+8,spontaneous_plants,3,2.3,0.71,1.229756073,flower_strips,3,6.04,1.15,1.991858429,,,,
+9,crops,5,16.19,6.52,14.57916321,grass_strips,5,34.19,13.27,29.67262206,,,,
+10,crops,14,6.38,0.54,2.020494989,flower_strips,14,10.71,0.94,3.517157944,,,,
+11,spontaneous_plants,7,41.91,19.26,50.95717025,flower_strips,7,21.03,8.82,23.33552656,grass_strips,7,18.82,8.572234248
